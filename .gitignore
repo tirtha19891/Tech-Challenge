@@ -1,0 +1,8 @@
+# Logs
+logs
+*.log
+*.lock.hcl
+*.lock.info
+*.tfstate
+*.backup
+.terraform
